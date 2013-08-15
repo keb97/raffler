@@ -1,3 +1,1 @@
-Raffler.ApplicationController = Ember.Controller.extend
-
-
+Raffler.ApplicationController = Ember.Controller.extend()
